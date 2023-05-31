@@ -23,19 +23,16 @@ h2 {
 }
 
 img {
-  width: 150px;
-}
-
-.planet-card {
-  color: white;
-  text-align: center;
+  width: 100%;
 }
 
 .solar-system {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  align-items: center;
   padding-bottom: 100px;
+  color: white;
+  text-align: center;
 }
 
 .missions {
@@ -55,4 +52,92 @@ img {
   min-width: 500px;
   margin: 25px;
   border-radius: 20px;
+}
+
+.planeta-Mercúrio {
+  width: 3%;
+  transition: 1s;
+}
+
+.planeta-Mercúrio:hover {
+  width: 3%;
+  transition: 1s;
+  transform: scale(1.4);
+}
+
+.planeta-Vênus {
+  width: 8%;
+  transition: 1s;
+}
+
+.planeta-Vênus:hover {
+  width: 8%;
+  transition: 1s;
+  transform: scale(1.4);
+}
+
+.planeta-Terra {
+  width: 10%;
+  transition: 1s;
+}
+
+.planeta-Terra:hover {
+  width: 10%;
+  transition: 1s;
+  transform: scale(1.4);
+}
+
+.planeta-Marte {
+  width: 4%;
+  transition: 1s;
+}
+
+.planeta-Marte:hover {
+  width: 4%;
+  transition: 1s;
+  transform: scale(1.4);
+}
+
+.planeta-Júpiter {
+  width: 25%;
+  transition: 1s;
+}
+
+.planeta-Júpiter:hover {
+  width: 25%;
+  transition: 1s;
+  transform: scale(1.4);
+}
+
+.planeta-Saturno {
+  width: 20%;
+  transition: 1s;
+}
+
+.planeta-Saturno:hover {
+  width: 20%;
+  transition: 1s;
+  transform: scale(1.4);
+}
+
+.planeta-Urano {
+  width: 16%;
+  transition: 1s;
+}
+
+.planeta-Urano:hover {
+  width: 16%;
+  transition: 1s;
+  transform: scale(1.4);
+}
+
+.planeta-Netuno {
+  width: 14%;
+  transition: 1s;
+}
+
+.planeta-Netuno:hover {
+  width: 14%;
+  transition: 1s;
+  transform: scale(1.3);
 }
