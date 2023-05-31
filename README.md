@@ -11,7 +11,7 @@ Este projeto em React renderiza imagens dos planetas do sistema solar em tamanho
 ## Pré-requisitos
 
 - Node.js instalado
-- NPM (Node Package Manager) ou Yarn instalado
+- NPM (Node Package Manager) instalado
 
 ## Como usar
 
@@ -19,29 +19,29 @@ Este projeto em React renderiza imagens dos planetas do sistema solar em tamanho
 
 HTTPS:
 
-git clone https://github.com/willianAD/Project-Solar-System.git
+Use o comando: `git clone https://github.com/willianAD/Project-Solar-System.git`
 
 ou SSH:
 
-git clone git@github.com:willianAD/Project-Solar-System.git
+Use o comando: `git clone git@github.com:willianAD/Project-Solar-System.git`
 
 
 
 2. Navegue até o diretório do projeto:
 
-cd sistema-solar-react
+Use o comando: `cd sistema-solar-react`
 
 
 
 3. Instale as dependências:
 
-npm install
+Use o comando: `npm install`
 
 
 
 4. Inicie o servidor de desenvolvimento:
 
-npm start
+Use o comando: `npm start`
 
 
 
