@@ -15,6 +15,10 @@ Este projeto em React renderiza imagens dos planetas do sistema solar em tamanho
 
 ## Como usar
 
+Poderá ser acessado através deste link [clique aqui](https://willianad.github.io/Project-Solar-System/).
+
+ou
+
 1. Clone este repositório:
 
 HTTPS:
